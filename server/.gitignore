@@ -1,7 +1,8 @@
+# Created by .gitignore support plugin (hsz.mobi)
+### Node template
 # Logs
 logs
 *.log
-npm-debug.log*
 
 # Runtime data
 pids
@@ -24,13 +25,7 @@ coverage
 build/Release
 
 # Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
 node_modules
-
-# Optional npm cache directory
-.npm
-
-# Optional REPL history
-.node_repl_history
-.DS_Store
 .idea
-emprendemdz.pem
+.DS_Store
